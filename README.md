@@ -1,5 +1,15 @@
 # Awesome Minecraft Server Links
 
+
+![Awesome](https://awesome.re/badge.svg)
+![Minecraft](https://img.shields.io/badge/Minecraft-Server%20Ecosystem-5C913B?style=for-the-badge&logo=minecraft)
+![Stars](https://img.shields.io/github/stars/Bytekron/Awesome-Minecraft-Servers-Links?style=for-the-badge)
+![Forks](https://img.shields.io/github/forks/Bytekron/Awesome-Minecraft-Servers-Links?style=for-the-badge)
+![Contributors](https://img.shields.io/github/contributors/Bytekron/Awesome-Minecraft-Servers-Links?style=for-the-badge)
+![Last Commit](https://img.shields.io/github/last-commit/Bytekron/Awesome-Minecraft-Servers-Links?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/Bytekron/Awesome-Minecraft-Servers-Links?style=for-the-badge)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)
+
 A curated list of software, tools, and resources used in the Minecraft server ecosystem.  
 This includes **server software, proxies, plugins, mod platforms, server panels, monitoring tools, developer tools, and Minecraft server lists** used to build and operate Minecraft servers and networks.
 
