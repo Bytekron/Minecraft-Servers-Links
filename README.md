@@ -566,6 +566,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[Baritone](https://github.com/cabaletta/baritone)** - Pathfinding bot used for automation and navigation.
 - **[MCProtocolLib Bots](https://github.com/GeyserMC/MCProtocolLib)** - Framework used for building custom Minecraft bots.
 - **[PyCraft Bots](https://github.com/ammaraskar/pyCraft)** - Python framework for Minecraft automation.
+- **[Minecraft-Youtube-Follower](https://github.com/GeiserX/Minecraft-Youtube-Follower)** - 24/7 automated spectator bot that follows players with a smart third-person camera and streams to YouTube/Twitch. Built with Mineflayer, fully Dockerized.
 
 ---
 
