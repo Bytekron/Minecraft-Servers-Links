@@ -473,6 +473,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 - **[OpenGamePanel](https://github.com/OpenGamePanel/OGP-Agent)** - Open-source panel for managing multiple game servers.
 - **[Kubek Panel](https://github.com/kubek2/kubek-minecraft-dashboard)** - Lightweight Minecraft server management dashboard.
 - **[MCSManager](https://github.com/MCSManager/MCSManager)** - Modern Minecraft server management panel with web interface.
+- **[Kretase](https://github.com/mwlih28/mc-manage-panel)** - Modern open-source game server panel built with React and Express, an alternative to Pterodactyl with server migration/cloning, auto-optimization, and a real-time world map.
 
 ---
 
