@@ -433,6 +433,7 @@ Updated and checked 2026. Please contribute to keep this link list accurate and 
 
 ### Modern Server Discovery Platforms
 
+- **[ServerBuddy](https://serverbuddy.net/)** - Free Java and Bedrock server discovery with live status, player-count history, uptime, version history, MOTDs, and server tools.
 - **PlanetMinecraft** - Community hub for Minecraft servers, maps, skins, and mods.
 - **Minecraft Server List** - Server list focused on discovering new Minecraft servers.
 - **MinecraftServersList** - Curated list of Minecraft multiplayer servers.
